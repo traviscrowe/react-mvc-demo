@@ -36,6 +36,5 @@ c:\users\traviscrowe\projects\ReactMvcDemo\ReactMvcDemo\bin\System.Web.Mvc.xml
 c:\users\traviscrowe\projects\ReactMvcDemo\ReactMvcDemo\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
 c:\users\traviscrowe\projects\ReactMvcDemo\ReactMvcDemo\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
 c:\users\traviscrowe\projects\ReactMvcDemo\ReactMvcDemo\bin\ru-ru\MsieJavaScriptEngine.resources.dll
-c:\users\traviscrowe\projects\ReactMvcDemo\ReactMvcDemo\obj\Debug\ReactMvcDemo.csprojResolveAssemblyReference.cache
 c:\users\traviscrowe\projects\ReactMvcDemo\ReactMvcDemo\obj\Debug\ReactMvcDemo.dll
 c:\users\traviscrowe\projects\ReactMvcDemo\ReactMvcDemo\obj\Debug\ReactMvcDemo.pdb
